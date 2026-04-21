@@ -19,7 +19,7 @@ neutral = 0
 negative = 0
 positive_comments = []
 
-name = "Stephen"
+name = "Kannan"
 name_count = 0
 
 # Process each comment
